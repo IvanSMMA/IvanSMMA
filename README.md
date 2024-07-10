@@ -1,6 +1,6 @@
 ## Hey, I'm Ivan Sánchez 👋
-Student, AI Engineer 🤖
-Today's work is tomorrow's success✍🏻
+## Student, AI Engineer 🤖
+# Today's work is tomorrow's success✍🏻
 
 
 
