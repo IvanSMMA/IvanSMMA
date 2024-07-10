@@ -1,6 +1,10 @@
-## Hola mundo, mi nombre es Ivan Sánchez 👋
+## Hey, I'm Ivan Sánchez 👋
+## Student, AI Engineer 🤖
+###Today's work is tomorrow's success✍🏻
 
-<!--
+
+
+<!--###
 **IvanSMMA/IvanSMMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
